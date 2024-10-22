@@ -1,1 +1,1 @@
-test.js;
+console.log("ceva cu array");
